@@ -12,7 +12,7 @@ CombatFeedbackModifier is here to simplify your experience by disabling incoming
 ![Before](https://github.com/user-attachments/assets/b68853de-6d71-4ea9-a15a-5033ff184690)  
 ![After](https://github.com/user-attachments/assets/d5dcd135-39be-475d-bd67-37ae934638f9)
 
-Whether you're optimizing your UI or seeking a cleaner combat display, this addon provides a simple toggle to disable these visuals.
+Enjoy a cleaner and distraction-free combat experience with **CombatFeedbackModifier**!
 
 ---
 
@@ -49,6 +49,3 @@ Once enabled, the addon automatically disables incoming heal animations. No conf
 
 To disable the functionality, simply disable the addon in the AddOns menu or via your favorite addon manager.
 
----
-
-Enjoy a cleaner and distraction-free combat experience with **CombatFeedbackModifier**!
