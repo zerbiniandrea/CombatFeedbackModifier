@@ -4,4 +4,4 @@ COMBATFEEDBACK_HOLDTIME = 0
 COMBATFEEDBACK_FADEOUTTIME = 0
 
 -- Print confirmation to the chat that the addon loaded
-DEFAULT_CHAT_FRAME:AddMessage("Combat Feedback Modifier loaded. Fade times set to 0.")
+-- DEFAULT_CHAT_FRAME:AddMessage("Combat Feedback Modifier loaded. Fade times set to 0.")
