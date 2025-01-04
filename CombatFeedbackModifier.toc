@@ -1,0 +1,7 @@
+## Interface: 110007  # WoW 10.0.7 or adjust to your WoW version
+## Title: Combat Feedback Modifier
+## Notes: Modifies combat feedback fade times
+## Author: YourName
+## Version: 1.0
+
+CombatFeedbackModifier.lua
