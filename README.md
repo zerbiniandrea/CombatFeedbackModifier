@@ -28,7 +28,7 @@ Whether you're optimizing your UI or seeking a cleaner combat display, this addo
 
 ### Method 1: Manual Installation
 
-1. Download the latest release from [GitHub Releases](https://github.com/zerbiniandrea/combatfeedbackmodifier/releases).
+1. Download the latest release from [GitHub Releases](https://github.com/zerbiniandrea/CombatFeedbackModifier/releases).
 2. Extract the folder into your WoW addons directory:  
    `World of Warcraft/_retail_/Interface/AddOns/`
 3. Launch or restart World of Warcraft, and enable the addon via the AddOns menu.
@@ -38,7 +38,7 @@ Whether you're optimizing your UI or seeking a cleaner combat display, this addo
 1. Open the [WoWUp Addon Manager](https://wowup.io/).
 2. Navigate to the "Addons" tab and click on "Install from URL".
 3. Paste the link to this repository:  
-   `https://github.com/zerbiniandrea/combatfeedbackmodifier`
+   `https://github.com/zerbiniandrea/CombatFeedbackModifier`
 4. Click "Install", and WoWUp will manage the installation for you.
 
 ---
