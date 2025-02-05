@@ -14,13 +14,6 @@ CombatFeedbackModifier is here to simplify your experience by disabling incoming
 
 Enjoy a cleaner and distraction-free combat experience with **CombatFeedbackModifier**!
 
----
-
-## Features
-
-- Disables incoming heal animations on unit frames.
-- Lightweight and easy to use.
-- Automatically disables incoming heals while the addon is enabled.
 
 ---
 
